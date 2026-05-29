@@ -37,25 +37,25 @@ I'm a passionate software developer focused on creating reliable and scalable ba
 
 # 🛠️ Tech Stack
 
-## 🚀 Backend Development
+##  Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,js" />
 </p>
 
-## 🗄️ Databases
+##  Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
-## ⚙️ Tools & Platforms
+##  Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
-## 🌐 Frontend Knowledge
+##  Frontend Knowledge
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
