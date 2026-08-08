@@ -31,7 +31,7 @@ I'm a passionate software developer focused on creating reliable and scalable ba
 - 🧠 Learning advanced **software architecture** and **system design**
 - 🛠️ Interested in scalable backend engineering and developer tooling
 - 🤝 Open to collaboration on impactful projects
-- 📫 Reach me at **chrisxeventy6@gmail.com**
+- 📫 Reach me at **mucyochris.dev@gmail.com**
 
 ---
 
